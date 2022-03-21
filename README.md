@@ -19,7 +19,7 @@
 
 **Principal repo no momento:**
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mardenrafael&repo=calculadora-de-media&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mardenrafael&repo=calculadora-de-media&theme=dark)](https://github.com/mardenrafael/calculadora-de-media)
  
 <hr>
 
