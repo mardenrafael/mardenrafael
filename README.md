@@ -33,8 +33,11 @@
   <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
 </div>
 
+<hr>
+
 ![Snake animation](https://github.com/mardenrafael/mardenrafael/blob/output/github-contribution-grid-snake.svg)
 
+<hr>
 
 ## Contate-me
 
