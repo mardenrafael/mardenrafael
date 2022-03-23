@@ -1,12 +1,5 @@
 # Olá!! meu nome é Marden Rafael.
 
-
-
-- 🏙️ Moro em Cacoal/RO
-- 📘 Atualmente estou cursando Sistemas de informação na faculdade Unesc
-- ⏲️ Tenho cerca de 1 ano e meio de experiencia
-
-<hr>
  
 <a href="https://github.com/mardenrafael">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mardenrafael&show_icons=true&theme=dark&count_private=true">
