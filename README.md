@@ -14,7 +14,7 @@
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mardenrafael&repo=buscador-de-cep&theme=dark)](https://github.com/mardenrafael/calculadora-de-media)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mardenrafael&repo=pokedex&theme=dark)](https://github.com/mardenrafael/calculadora-de-media)
  
  </div>
  
