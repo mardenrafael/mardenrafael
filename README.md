@@ -30,10 +30,6 @@
 
 <hr>
 
-![Snake animation](https://github.com/mardenrafael/mardenrafael/blob/output/github-contribution-grid-snake.svg)
-
-<hr>
-
 ## Contate-me
 
 <a href="mailto:mardenrafaeldalmagro.gimenez@gmail.com">
