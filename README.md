@@ -14,7 +14,7 @@
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mardenrafael&repo=pokedex&theme=dark)](https://github.com/mardenrafael/pokedex)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mardenrafael&repo=lpi&theme=dark)](https://github.com/mardenrafael/lpi)
  
  </div>
  
