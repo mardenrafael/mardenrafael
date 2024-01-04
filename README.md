@@ -1,8 +1,10 @@
 # Olá!! meu nome é Marden Rafael.
 
-<a href="https://github.com/mardenrafael">
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mardenrafael&layout=compact&theme=dark">
-</a>
+<div align="center">
+  <a href="https://github.com/mardenrafael">
+    <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mardenrafael&layout=compact&theme=dark">
+  </a>
+</div>
 
 <hr>
 
