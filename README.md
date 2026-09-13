@@ -8,6 +8,7 @@
 
 <hr>
 
+<!--
 ### Principal repo no momento:
 
 <div align="center">
@@ -15,7 +16,7 @@
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mardenrafael&repo=lpi&theme=dark)](https://github.com/mardenrafael/lpi)
  
  </div>
- 
+ -->
 <hr>
 
 <div align="center">
