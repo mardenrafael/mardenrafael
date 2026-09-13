@@ -16,9 +16,9 @@
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mardenrafael&repo=lpi&theme=dark)](https://github.com/mardenrafael/lpi)
  
  </div>
- -->
+ 
 <hr>
-
+-->
 <div align="center">
   
   <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
