@@ -1,5 +1,5 @@
 # Olá!! meu nome é Marden Rafael.
-
+<!--
 <div align="center">
   <a href="https://github.com/mardenrafael">
     <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mardenrafael&layout=donut-vertical&theme=dark">
@@ -8,7 +8,7 @@
 
 <hr>
 
-<!--
+
 ### Principal repo no momento:
 
 <div align="center">
